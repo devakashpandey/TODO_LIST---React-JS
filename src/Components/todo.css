@@ -126,17 +126,11 @@ h3 {
   color: #6167cf;
 }
 
-@media (max-width: 700px) {
-}
-
 @media (max-width: 500px) {
   .txt {
     font-size: 28px;
     width: 350px;
     margin-top: 50px;
-  }
-  .main-div {
-    margin-left: 45px;
   }
   .inner-div {
     margin-top: 60px;
